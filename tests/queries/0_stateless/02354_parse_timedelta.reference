@@ -10,3 +10,25 @@
 1.001001001
 1.001001001
 1.11111111111
+Nullable(Float64)	Float64
+1331	1331
+11	11
+	\N	0
+ 	\N	0
+10	\N	0
+-1yr	\N	0
+1yr-	\N	0
+yr2mo	\N	0
+1.yr2mo	\N	0
+1-yr	\N	0
+1 1yr	\N	0
+1yyr	\N	0
+1yr-2mo-4w + 12 days, 3 hours : 1 minute ;. 33 seconds	\N	0
+11s+22min	1331	1331
+1h 30m	5400	5400
+	\N	0
+1s	1	1
+\N	\N	\N
+	\N	0
+60	60
+\N	0

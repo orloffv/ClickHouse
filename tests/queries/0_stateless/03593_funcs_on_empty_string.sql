@@ -236,6 +236,8 @@ SELECT parseDateTimeOrNull('');
 SELECT parseDateTimeOrZero('');
 SELECT parseReadableSizeOrNull('');
 SELECT parseReadableSizeOrZero('');
+SELECT parseTimeDeltaOrNull('');
+SELECT parseTimeDeltaOrZero('');
 SELECT partitionID('');
 SELECT partitionId('');
 SELECT path('');
